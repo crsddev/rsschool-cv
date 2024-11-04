@@ -23,6 +23,5 @@ console.log(filterList(['string', '10', 20, 100, true]))
 ## Education
 * Courses:
 * [Hexlet Web-development](https://ru.hexlet.io/programs/web-development-free)
-
 * [Stepik JavaScript for beginners](https://stepik.org/course/180784/syllabus)
 * [Code Basics HTML](https://code-basics.com/ru/languages/html)
